@@ -8,5 +8,6 @@ The script iterates through the widgets, filters items based on type and view ty
 # Dependencies:
 Python 3.x
 Pandas library
+Json
 # Note:
 Make sure to handle the web scraping ethically and in compliance with the terms of service of the website being scraped.
