@@ -20,4 +20,5 @@ Find the extracted item details in the 'item_details.xlsx' Excel file.
 
 # Dependencies :
 Selenium: For web automation and scraping.
+
 Pandas: For data manipulation and organization.
